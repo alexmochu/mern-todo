@@ -1,4 +1,4 @@
-# mern-todo
+# MEARN-todo
 The MERN stack consists of MongoDB, Express, React / Redux, and Node.js.
 
 # Install
